@@ -1,0 +1,10 @@
+﻿Type ,Title,Time,Place,Timeline ,Cost,Total 
+chore,vacuum,20,neutral,,,
+chore,dishes,5,neutral,,,
+chore,trash,2,neutral,,,
+chore,upstairs bathroom,20,up,,,
+chore,downstairs bathroom,20,down,,,
+chore,laundry,15,neutral,,,
+errand,toilet paper,20,up,,7.59,12
+errand,toilet paper ,20,down ,,7.59,12
+errand,paper towels,20,neutral ,,5.99,5
